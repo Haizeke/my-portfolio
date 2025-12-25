@@ -1,4 +1,4 @@
-# Lab Report : Reflections on Git Basics & Conflict Resolution
+# Lab Report: Reflections on Git Basics & Conflict Resolution
 
 In this file we have the screenshots showing the conflict and the conflict marker that was created and resolved too, the successful push, the git commits, git merges, the several branches that were created.
 
